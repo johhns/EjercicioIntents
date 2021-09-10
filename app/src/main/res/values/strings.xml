@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EjercicioIntents</string>
+
+    <string-array name="dias_array">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+
+
+</resources>
